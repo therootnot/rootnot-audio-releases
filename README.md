@@ -2,8 +2,6 @@
 
 Official Windows x64 installers and updates for Rootnot Audio plugins.
 
-Download installers from [Releases](https://github.com/therootnot/rootnot-audio-releases/releases/latest).
-
 ## Products
 
 | Product | Version in the first release | Formats |
